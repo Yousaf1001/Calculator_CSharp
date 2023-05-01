@@ -1,2 +1,2 @@
 # Calculator_CSharp
-Simple Calculator make by using window form and C#
+This is a basic calculator program written in C# using Windows Forms. It provides users with essential mathematical functions such as addition, subtraction, multiplication, and division, and includes error-handling to prevent invalid inputs. The program is designed to be easy to use, with clear button labels and a simple layout. It can perform multiple calculations in sequence and displays results in real-time. This calculator program is a useful tool for anyone who needs to do quick and easy math.
